@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+/* html styles */
+html {
+    background: url(cat21102.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+body {
+    background-color: rgba(209, 113, 247, .80);
+    height: 100%;
+}
+
+h1 {
+    color: aqua;
+    font-family: cursive;
+    text-shadow: 4px 4px 5px black;
+    padding: 10px 5px;
+}
